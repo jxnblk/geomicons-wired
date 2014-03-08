@@ -1,79 +1,47 @@
 // Type
 
 body {
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
   line-height: 1.5rem;
   font-weight: 400;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
+
+code, pre, samp {
+  font-family: 'Source Code Pro', monospace;
+  font-size: inherit;
+}
+pre { overflow: auto; }
 
 // Base Type Scale
 
-h1, .h1, .f1 {
+h1, .h1 {
   font-size: 2rem;
   line-height: 3rem;
 }
 
-h2, .h2, .f2 {
-  font-size: 1.5rem;
+h2, .h2 {
+  font-size: 1.5em;
   line-height: 2rem;
 }
 
-h3, .h3, .f3 {
-  font-size: 1.25rem;
-  line-height: 2rem;
-}
-
-p, .p, .f4, h4, h5, h6, dl, ol, ul {
+p, .p, .h3, h3, h4, h5, h6, dl, ol, ul {
   font-size: 1.125rem;
-  line-height: 1.5rem;
+  line-height: 2rem;
 }
 
-small, .small, .f5 {
+small, .small, .h4 {
   font-size: .875rem;
   line-height: 1.5rem;
 }
 
 
-// Responsive Type Scale
-
-@media screen and (min-width: 48em) {
-  .h1 {
-    font-size: 4rem;
-    line-height: 5rem;
-  }
-  .h2 {
-    font-size: 2rem;
-    line-height: 3rem;
-  }
-  .h3 {
-    font-size: 1.5rem;
-    line-height: 2rem;
-  }
-  .p {
-    font-size: 1.25rem;
-    line-height: 2rem;
-  }
-  .small {
-    font-size: 1rem;
-  }
-}
-
-@media screen and (min-width: 64em) {
-  .h1 {
-    font-size: 6rem;
-    line-height: 8rem;
-  }
-  .h2 {
-    font-size: 3rem;
-    line-height: 4rem;
-  }
-}
-
-
 // Utilities
 
-strong, .bold { font-weight: bold; }
+strong, .bold { font-weight: 600; }
 .regular { font-weight: normal; }
 .italic { font-style: italic; }
 .caps { text-transform: uppercase; letter-spacing: .2em; }

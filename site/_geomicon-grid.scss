@@ -1,0 +1,17 @@
+// Geomicon Grid
+
+html, body { min-height: 100%; }
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 29rem;
+}
+
+@media (min-width: 46.5em) and (max-width: 65.9375em) {
+  .container { max-width: 43.5rem; }  
+}
+
+@media (min-width: 66em) {
+  .container { max-width: 58rem; }
+}
+
