@@ -12,7 +12,7 @@ I released Geomicons Wired over three years ago, and they’ve been used in many
 [Geomicons Open](http://jxnblk.github.io/geomicons-open)
 &ndash; and, you guessed it, it’s open source. To coincide with the launch of Geomicons Open, I’ll also be offering Geomicons Wired for free (as in speech) through an open source license.
 
-Anyone who’s purchased Geomicons Wired in the last three months should have gotten a refund from me by now. If you haven’t, please let me know. If you purchased the set before December 2013, I hope you’ve gotten $16 worth out of the set and can understand my decision to do this. That said, any past purchases of Geomicons Wired are now under the same open source license, which allows you to do a whole lot more.
+Anyone who’s purchased Geomicons Wired in the last three months will be receiving a refund. If you do not get this refund within the next few days, please let me know. If you purchased the set before December 2013, I hope you’ve gotten $16 worth out of the set and can understand my decision to do this. That said, any past purchases of Geomicons Wired are now under the same open source license, which allows you to do a whole lot more.
 
 Enjoy!
 
