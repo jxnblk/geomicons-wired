@@ -7,6 +7,12 @@ $mid-gray: #a9acac;
 $mid-gray: #797c7c;
 $dark-gray: #30393f;
 
+// Jxnblk colors
+$blue: #0096cc;
+$light-gray: #eaeff0;
+$mid-gray: #708690;
+$dark-gray: #405660;
+
 .white { color: #fff; }
 .blue { color: $blue; }
 .light-gray { color: $light-gray; }
@@ -34,8 +40,9 @@ $dark-gray: #30393f;
 // Base theme styles
 
 body {
-  color: $mid-gray;
-  background-color: $light-gray;
+  //color: $mid-gray;
+  color: $dark-gray;
+  //background-color: $light-gray;
 }
 
 a {
